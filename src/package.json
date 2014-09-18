@@ -1,0 +1,12 @@
+{
+    "name": "sparql",
+    "title": "SPARQL Syntax Highlighter",
+    "description": "Add syntax highlighting support for the SPARQL language (.rq).",
+    "homepage": "https://github.com/nandana/brackets-sparql-syntax-highlighter",
+    "version": "1.0.0",
+    "author": "Nandana (http://github.com/nandana)",
+    "license": "Apache",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
