@@ -9,10 +9,10 @@ The extension can be directly installed using the Extension Manager of Brackets.
 
 File -> Extension Manager 
 
-![Extension Manager screen](https://raw.githubusercontent.com/nandana/brackets-turtle-syntax-highlighter/master/img/install.png)
+![Extension Manager screen](https://raw.githubusercontent.com/nandana/brackets-sparql-syntax-highlighter/master/img/install.png)
 
-and that's it !! Now you have Turtle syntax highlighting in Brackets :)
+and that's it !! Now you have SPARQL syntax highlighting in Brackets :)
 
-![Extension Manager screen](https://raw.githubusercontent.com/nandana/brackets-turtle-syntax-highlighter/master/img/screenshot.png)
+![Extension Manager screen](https://raw.githubusercontent.com/nandana/brackets-sparql-syntax-highlighter/master/img/screenshot.png)
 
 This extension is registered @  [Brackets Extension Registry](https://brackets-registry.aboutweb.com/).
