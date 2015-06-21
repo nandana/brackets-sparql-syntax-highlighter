@@ -7,7 +7,7 @@ define(function (require, exports, module) {
     LanguageManager.defineLanguage("sparql", {
     	name: "sparql",
     	mode: "sparql",
-    	fileExtensions: [".rq"],
+    	fileExtensions: [".rq",".ru"],
     	lineComment: ["#"] 
     });
     console.log("Loaded the SPARQL module");
